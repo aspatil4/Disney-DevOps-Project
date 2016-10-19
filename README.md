@@ -1,5 +1,6 @@
 # Disney-DevOps-Project
 # Please Read this file for better understanding of the project.
+# The project looks to serve a simple Hello World html page on a web server. The application and host must be secure such that only appropriate ports are exposed and any HTTP requests are redirected to HTTPS.
 
 This project has been implemented using the PUPPET configuration management tool. 
 
