@@ -47,4 +47,3 @@ Path to 'init.pp' manifest:
 Path to main manifest:
 /etc/puppet/manifests
 
-##Testing for DataDog   
